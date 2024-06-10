@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Added Member To Class: ClassName=BNC Member=Component J3 1-1337445-0
+Added Member To Class: ClassName=BNC Member=Component J5 1-1337445-0
+Added Member To Class: ClassName=BNC Member=Component J6 1-1337445-0
+Added Member To Class: ClassName=BNC Member=Component JS4 1-1337445-0
+Added Member To Class: ClassName=BNC Member=Component JS5 1-1337445-0
+Added Member To Class: ClassName=BNC Member=Component JS6 1-1337445-0

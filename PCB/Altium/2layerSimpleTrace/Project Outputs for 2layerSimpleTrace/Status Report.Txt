@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:33:14 On 17/02/2024
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [TwoLayer.PcbDoc]
+   Generated File[TwoLayer_Copper_Signal_Top.gbr]
+   Generated File[TwoLayer_Copper_Signal_Bot.gbr]
+   Generated File[TwoLayer_Legend_Top.gbr]
+   Generated File[TwoLayer_Legend_Bot.gbr]
+   Generated File[TwoLayer_Soldermask_Top.gbr]
+   Generated File[TwoLayer_Soldermask_Bot.gbr]
+   Generated File[TwoLayer_Paste_Top.gbr]
+   Generated File[TwoLayer_Paste_Bot.gbr]
+   Generated File[TwoLayer_Profile.gbr]
+   Generated File[TwoLayer_NPTH_Drill.gbr]
+   Generated File[TwoLayer_PTH_Drill.gbr]
+   Generated File[TwoLayer.RUL]
+   Generated File[TwoLayer.EXTREP]
+   Generated File[TwoLayer.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 14:33:16 On 17/02/2024

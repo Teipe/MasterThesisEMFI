@@ -1,0 +1,3 @@
+Added Component: Designator=T(PCBComponent_1)
+Added Net: Name=GND
+Added Member To Class: ClassName=BNC Member=Component T TestPoint

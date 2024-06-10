@@ -1,0 +1,164 @@
+*************************************************************
+FileName = TwoLayer.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : TwoLayer_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TwoLayer_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : TwoLayer_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TwoLayer_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TwoLayer_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D16
+    D17
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TwoLayer_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : TwoLayer_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TwoLayer_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : TwoLayer_Profile.gbr
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : TwoLayer_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : TwoLayer_PTH_Drill.gbr
+
+
+Used DCodes :
+    D32
+    D33
+*************************************************************
+

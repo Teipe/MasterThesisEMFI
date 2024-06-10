@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J5
+Change Component Designator: OldDesignator=J3 NewDesignator=J6
+Change Component Designator: OldDesignator=J4 NewDesignator=J2
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=JS2 NewDesignator=JS5
+Change Component Designator: OldDesignator=JS3 NewDesignator=JS6
+Change Component Designator: OldDesignator=JS5 NewDesignator=JS3
+Change Component Designator: OldDesignator=JS6 NewDesignator=JS4
+Change Net Name : Old Net Name=GND4 New Net Name=GND2
+Change Net Name : Old Net Name=GND5 New Net Name=GND3
+Change Net Name : Old Net Name=GND6 New Net Name=GND4
+Change Net Name : Old Net Name=SIG2_N New Net Name=SIG5_N
+Change Net Name : Old Net Name=SIG2_P New Net Name=SIG5_P
+Change Net Name : Old Net Name=SIG3_N New Net Name=SIG6_N
+Change Net Name : Old Net Name=SIG3_P New Net Name=SIG6_P
+Change Net Name : Old Net Name=V4 New Net Name=V2
+Change Net Name : Old Net Name=V5 New Net Name=V3
+Change Net Name : Old Net Name=V6 New Net Name=V4
+Added Differential Pair: Name=SIG5
+Added Differential Pair: Name=SIG6
+Added Member To Class: ClassName=BNC Member=Component JS4 1-1337445-0

@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=GND2 New Net Name=SIG2_N
+Change Net Name : Old Net Name=GND3 New Net Name=SIG3_N
+Change Net Name : Old Net Name=V2 New Net Name=SIG2_P
+Change Net Name : Old Net Name=V3 New Net Name=SIG3_P
+Added Differential Pair: Name=SIG2
+Added Differential Pair: Name=SIG3
